@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="set_destination">Set Destination</string>
+    <string name="distance_from_the_destination">Distance from the destination: %1$dm</string>
+</resources>

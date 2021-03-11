@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kompas</string>
+    <string name="set_destination">Ustaw cel</string>
+    <string name="distance_from_the_destination">Odległość od celu: %1$dm</string>
+</resources>
